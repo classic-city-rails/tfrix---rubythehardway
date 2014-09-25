@@ -1,7 +1,7 @@
-puts "hello world"
-puts "hello again"
-puts "i like typing this."
-puts "this is fun."
-puts "Yay! printing"
-puts "Id much rather you 'not'"
-puts 'I "said" do not touch this"'
+puts "Hello World!"
+puts "Hello again!"
+puts "I like typing this."
+puts "This is fun."
+puts "Yay! I love printing"
+puts "I'd much rather you 'not'."
+puts 'I "said" do not touch this!!"'
