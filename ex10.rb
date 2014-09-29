@@ -9,7 +9,7 @@ I'll do a list:
 \t* Catnip\n\t* Grass
 """
 
-puts tabby_cat
+puts tabby_catgit
 puts persian_cat
 puts backslash_cat
 puts fat_cat
